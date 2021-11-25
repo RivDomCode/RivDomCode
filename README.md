@@ -1,4 +1,4 @@
-### Hi there 👋 I am a software developer from Spain mainly focused on JavaScript, but planning to learn other languages in the future, for sure!
+###  👋 I am a software developer from Spain mainly focused on JavaScript...Anyways I am planning to learn other languages in the future, for sure!
 
 <!--
 **RivDomCode/RivDomCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
