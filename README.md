@@ -1,4 +1,4 @@
-###  👋 I am a software developer from Spain focused on solve problems with the right tool.
+###  👋 I am a software developer from Spain focused problem solving oriented.
 
 <!--
 **RivDomCode/RivDomCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
