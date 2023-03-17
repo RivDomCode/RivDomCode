@@ -1,4 +1,5 @@
 ###  👋 I am a software developer from Spain. Team player, attention to detail and problem solving oriented.
+        Fluent in spanish and english.          
 
 <!--
 **RivDomCode/RivDomCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
